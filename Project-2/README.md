@@ -8,11 +8,11 @@ Using machine learning techniques, (Random Forest Classifier) we shold be able t
 
 1. Data Processing
     Assessing and cleaning the data, so that it can be utilized by machine learning algorithms.
-    See details in the [ETL Notebook]().
+    See details in the [ETL Notebook](https://github.com/moulikaachhe/Udacity-NanoDegree-DataScience/blob/master/Project-2/ETL%20Pipeline%20Preparation.ipynb).
     
 2. Model training
     Data was passed through a pipeline and a prediction model is made.
-    See details in the [ML Notebook]().
+    See details in the [ML Notebook](https://github.com/moulikaachhe/Udacity-NanoDegree-DataScience/blob/master/Project-2/ML%20Pipeline%20Preparation.ipynb).
 
 3. Prediction and Visualization
     Making a [web app](https://view6914b2f4-3001.udacity-student-workspaces.com/) for prediction and visualization, where user may try some emergency messages and see visualization of distribution of genres and categories.
